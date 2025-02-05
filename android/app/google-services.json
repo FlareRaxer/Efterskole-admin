@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "434474254915",
+    "project_id": "efterskolementor-dk",
+    "storage_bucket": "efterskolementor-dk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434474254915:android:6b630e74a336b490264af6",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNFiZxjce6A1TqBKgWBehzPVj83g1A4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434474254915-464e90nralrk7mvu2oqaodbdsn04vbcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dk.efterskolementor.Efterskolementor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434474254915:android:932a15a571c25368264af6",
+        "android_client_info": {
+          "package_name": "com.example.efterskole_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNFiZxjce6A1TqBKgWBehzPVj83g1A4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434474254915-464e90nralrk7mvu2oqaodbdsn04vbcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dk.efterskolementor.Efterskolementor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434474254915:android:cf7a4c6a53ded603264af6",
+        "android_client_info": {
+          "package_name": "com.example.efterskolementor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNFiZxjce6A1TqBKgWBehzPVj83g1A4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434474254915-464e90nralrk7mvu2oqaodbdsn04vbcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dk.efterskolementor.Efterskolementor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434474254915:android:be8a9939368b723f264af6",
+        "android_client_info": {
+          "package_name": "dk.efterskolementor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNFiZxjce6A1TqBKgWBehzPVj83g1A4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434474254915-u9dtnlo79k616539r1e8r8g4pj5s3u8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434474254915-464e90nralrk7mvu2oqaodbdsn04vbcq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dk.efterskolementor.Efterskolementor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

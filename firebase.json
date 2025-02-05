@@ -1,0 +1,44 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "efterskolementor-dk",
+          "appId": "1:434474254915:android:932a15a571c25368264af6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "efterskolementor-dk",
+          "configurations": {
+            "android": "1:434474254915:android:932a15a571c25368264af6",
+            "ios": "1:434474254915:ios:fcbb370ef9d257f1264af6",
+            "web": "1:434474254915:web:649d4f9ee8521b68264af6"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ],
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
