@@ -47,8 +47,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCM9SGZ-QYqeDbM0iU3Z4zBqMoP-xf7Ndw',
-    appId: '1:434474254915:web:649d4f9ee8521b68264af6',
     messagingSenderId: '434474254915',
     projectId: 'efterskolementor-dk',
     authDomain: 'efterskolementor-dk.firebaseapp.com',
@@ -57,16 +55,12 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBdNFiZxjce6A1TqBKgWBehzPVj83g1A4Q',
-    appId: '1:434474254915:android:932a15a571c25368264af6',
     messagingSenderId: '434474254915',
     projectId: 'efterskolementor-dk',
     storageBucket: 'efterskolementor-dk.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDTD2gLpRUv8hCa_FCz-x7rNPRlEGlZDGk',
-    appId: '1:434474254915:ios:fcbb370ef9d257f1264af6',
     messagingSenderId: '434474254915',
     projectId: 'efterskolementor-dk',
     storageBucket: 'efterskolementor-dk.appspot.com',
